@@ -1,0 +1,12 @@
+All flights:
+ London AirbusFlight#21
+ Paris BoeingFlight#53
+ Tokyo AirbusFlight#5
+
+All flights on request Airbus:
+ London AirbusFlight#21
+ Tokyo AirbusFlight#5
+
+Flights starting with a letter P:
+ Paris BoeingFlight#53
+

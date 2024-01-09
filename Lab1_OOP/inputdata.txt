@@ -1,0 +1,3 @@
+Paris;Boeing;53
+London;Airbus;21
+Tokyo;Airbus;5
