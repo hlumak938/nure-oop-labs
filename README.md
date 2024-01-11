@@ -1,2 +1,2 @@
 # nure-oop-labs
-Object-oriented programming. Labs. NURE.
+Object-oriented programming C++. Labs. NURE.
